@@ -18,19 +18,19 @@
 
 ### Tecnologias:
 <div align="center">
-<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/BlogRails/assets/101184511/7573eaeb-16af-4368-b210-39dc330746af">
+<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/b61c9e11-adf5-4445-a89f-6fd7e4df1eb8">
 
-<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/BlogRails/assets/101184511/115f1510-98df-4a4d-893b-98aee149c013">
+<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/9f3367e0-1681-4ce6-98de-a8363ca2a99e">
 
-<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/BlogRails/assets/101184511/395b3bac-2dc6-40c4-a74d-82b5db8bffc4">
+<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/90998c52-d0ff-475f-a892-c9adff36befb">
 
-<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/BlogRails/assets/101184511/bd8dab02-6593-456e-b628-77b797ada47f">
+<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/0eb28a28-50d0-4723-98ff-b49af87897c8">
 
-<img align="center" height="50" width="50"  src="https://github.com/Angelicahaas/BlogRails/assets/101184511/e629c3c9-2c7a-4aad-90fa-7a9f950997ad">
+<img align="center" height="50" width="50"  src="https://github.com/Angelicahaas/EDA1/assets/101184511/9e6fc7c3-dee7-4d24-8aad-a9f5ffa2edcf">
 
-<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/BlogRails/assets/101184511/96f03684-0f53-4bd9-a638-973a54b15f76">
+<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/59982e80-0027-4678-b0ae-2624aaf02d76">
 
-<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/BlogRails/assets/101184511/7ddcf86b-12ec-4cb8-b67b-aa4386165241">
+<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/7093b260-992e-411a-bf52-be5cff616fb3">
 
 </div>
 
@@ -40,13 +40,13 @@
 ### Contatos:
 <div align="center">
 <a href="mailto:harleny87@gmail.com" target="_blank">
-<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/BlogRails/assets/101184511/f917aea3-629a-46c0-a16c-37ea4060c0ba">
+<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/364df55e-84f7-4dad-bf57-c4d10f369266">
   
 <a href="https://www.instagram.com/harlenyangel" target="_blank">
-<img align="center" height="40" width="40" src="https://github.com/Angelicahaas/BlogRails/assets/101184511/da59aac3-bb82-437c-a281-ed89de7a8677">
+<img align="center" height="40" width="40" src="https://github.com/Angelicahaas/EDA1/assets/101184511/be606f26-92a9-442c-8034-b66efb73b90b">
 
 <a href="https://www.linkedin.com/in/harleny-ang%C3%A9llica-903559250/" target="_blank">
-<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/BlogRails/assets/101184511/445f8f1c-816e-4733-8b46-1a7df02d5046">
+<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/8b29162a-a1cd-4309-9788-ae6320fee30c">
 
 </div>
 <br>
