@@ -26,6 +26,8 @@
 
 <img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/0eb28a28-50d0-4723-98ff-b49af87897c8">
 
+<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/4f391395-32c0-4235-8c9d-702248e614ba">
+
 <img align="center" height="50" width="50"  src="https://github.com/Angelicahaas/EDA1/assets/101184511/9e6fc7c3-dee7-4d24-8aad-a9f5ffa2edcf">
 
 <img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/59982e80-0027-4678-b0ae-2624aaf02d76">
