@@ -14,7 +14,18 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Angelicahaas&theme=violet-dark&hide_border=falso&locale=pt_BR&card_width=800)](https://git.io/streak-stats)
 
 </div>
-<br>
+
+<div align="center">
+<a href="mailto:harleny87@gmail.com" target="_blank">
+<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/364df55e-84f7-4dad-bf57-c4d10f369266">
+  
+<a href="https://www.instagram.com/harlenyangel" target="_blank">
+<img align="center" height="45" width="40" src="https://github.com/Angelicahaas/EDA1/assets/101184511/be606f26-92a9-442c-8034-b66efb73b90b">
+
+<a href="https://www.linkedin.com/in/harleny-ang%C3%A9llica-903559250/" target="_blank">
+<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/8b29162a-a1cd-4309-9788-ae6320fee30c">
+
+</div>
 
 ### Tecnologias:
 <div align="center">
@@ -36,21 +47,6 @@
 
 </div>
 
-<br>
-<br>
-
-### Contatos:
-<div align="center">
-<a href="mailto:harleny87@gmail.com" target="_blank">
-<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/364df55e-84f7-4dad-bf57-c4d10f369266">
-  
-<a href="https://www.instagram.com/harlenyangel" target="_blank">
-<img align="center" height="40" width="40" src="https://github.com/Angelicahaas/EDA1/assets/101184511/be606f26-92a9-442c-8034-b66efb73b90b">
-
-<a href="https://www.linkedin.com/in/harleny-ang%C3%A9llica-903559250/" target="_blank">
-<img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/8b29162a-a1cd-4309-9788-ae6320fee30c">
-
-</div>
 <br>
 <br> 
 
