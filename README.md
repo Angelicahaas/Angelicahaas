@@ -29,7 +29,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://github.com/user-attachments/assets/abcf07b4-d6e7-4f8c-ad92-ad402e9412f6) 
+![Ashutosh's github activity graph](https://github.com/user-attachments/assets/27f0faf2-747e-4084-859a-aa0ece10ab2a) 
 
 </div>
 
