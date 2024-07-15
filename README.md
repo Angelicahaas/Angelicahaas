@@ -27,6 +27,12 @@
 
 </div>
 
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://github.com/user-attachments/assets/abcf07b4-d6e7-4f8c-ad92-ad402e9412f6) 
+
+</div>
+
 ### Tecnologias:
 <div align="center">
 <img align="center" height="50" width="50" src="https://github.com/Angelicahaas/EDA1/assets/101184511/b61c9e11-adf5-4445-a89f-6fd7e4df1eb8">
