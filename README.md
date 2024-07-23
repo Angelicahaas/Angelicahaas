@@ -1,6 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/Angelicahaas/BlogRails/assets/101184511/df9ba0b5-952f-4f86-a3e0-d96c42b6a56b"/>
-<br>
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF1493&reversal=true&descAlign=10&descAlignY=3&rotate=9"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E61D79D2&center=true&random=false&width=350&height=100&lines=Ol%C3%A1%2C+eu+sou+Harleny+Ang%C3%A9llica;Bem-vindo(a)!;%3A)" alt="Typing SVG" /></a>
@@ -51,4 +49,4 @@
 <br>
 <br> 
 
-<img width=100% src="https://github.com/Angelicahaas/BlogRails/assets/101184511/471c323f-e161-4175-a6ba-78fd06c1ef59"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF1493&reversal=true&descAlign=100&descAlignY=81&rotate=9&section=footer"/>
