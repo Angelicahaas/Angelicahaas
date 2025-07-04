@@ -3,16 +3,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E61D79D2&center=true&random=false&width=350&height=100&lines=Ol%C3%A1%2C+eu+sou+Harleny+Ang%C3%A9llica;Bem-vindo(a)!;%3A)" alt="Typing SVG" /></a>
 </div>
-
-<br>
-<img src="https://github.com/user-attachments/assets/e6cad2f8-79c3-4d30-a2bf-5bbe2d9babd4" width="150px" align="right" borderRadius="100px" /> 
-<br>
+<img src="https://github.com/user-attachments/assets/a8d864cb-5220-4df4-acd7-68d32199fabc" width="150px" align="right" borderRadius="100px" />
 
 ##
-
 💻 Atuando como Desenvolvedora Fullstack  <br>
 🎓 Cursando o 8º semestre de Engenharia de Software na Universidade de Brasília (UnB) <br>
 📚 Sempre em busca de evolução contínua, novos aprendizados e desafios que contribuam para meu crescimento profissional e pessoal.
+<br>
 
 ##
 
